@@ -1,0 +1,9 @@
+{
+    "types": [
+        "Ceci est une chaîne de caractères",
+        true,
+        132,
+        null
+    ],
+    "data": "Une autre donnée..."
+}
